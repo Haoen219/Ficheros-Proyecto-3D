@@ -1,0 +1,31 @@
+# Archivos temporales de Blender
+*.blend1
+*.blend2
+*.blend@*
+
+# Caché y backups
+__pycache__/
+*.tmp
+*.autosave
+*.blend~
+
+# Directorios de caché de simulaciones y renders
+cache/
+render_cache/
+*.bphys
+*.vdb
+
+# Configuración y archivos de usuario
+*.log
+startup.blend
+userpref.blend
+
+# Archivos generados de exportaciones
+*.fbx
+*.obj
+*.mtl
+*.dae
+*.abc
+*.usd
+*.gltf
+*.glb
