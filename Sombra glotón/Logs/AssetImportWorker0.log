@@ -1,0 +1,913 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.49f1 (4dae1bb8668d) revision 5090843'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit Professional' Language: 'es' Physical Memory: 16165 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.49f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/CEVJ_HaoenZhang/Documents/GitHub/Ficheros-Proyecto-3D/Sombra glotón
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49982
+Successfully changed project path to: C:/Users/CEVJ_HaoenZhang/Documents/GitHub/Ficheros-Proyecto-3D/Sombra glotón
+C:/Users/CEVJ_HaoenZhang/Documents/GitHub/Ficheros-Proyecto-3D/Sombra glotón
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [12500]  Target information:
+
+Player connection [12500]  * "[IP] 10.116.1.152 [Port] 0 [Flags] 2 [Guid] 457577113 [EditorId] 457577113 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-V0Q9EDU) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [12500] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [12500] Host joined alternative multi-casting on [225.0.0.222:34997]...
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+Refreshing native plugins compatible for Editor in 10.67 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.49f1 (4dae1bb8668d)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.49f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/CEVJ_HaoenZhang/Documents/GitHub/Ficheros-Proyecto-3D/Sombra glotón/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 630 (ID=0x3e92)
+    Vendor:   Intel
+    VRAM:     8082 MB
+    Driver:   30.0.100.9864
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.49f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.49f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.49f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56716
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.49f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.49f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.49f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.014460 seconds.
+- Loaded All Assemblies, in  0.579 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 882 ms
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.365 seconds
+Domain Reload Profiling: 1942ms
+	BeginReloadAssembly (159ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (52ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (90ms)
+	LoadAllAssembliesAndSetupDomain (260ms)
+		LoadAssemblies (159ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (255ms)
+			TypeCache.Refresh (253ms)
+				TypeCache.ScanAssembly (228ms)
+			ScanForSourceGeneratedMonoScriptInfo (1ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (1365ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1283ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (1029ms)
+			SetLoadedEditorAssemblies (7ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (4ms)
+			ProcessInitializeOnLoadAttributes (191ms)
+			ProcessInitializeOnLoadMethodAttributes (52ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.062 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.904 seconds
+Domain Reload Profiling: 1960ms
+	BeginReloadAssembly (260ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (10ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (29ms)
+	RebuildCommonClasses (54ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (66ms)
+	LoadAllAssembliesAndSetupDomain (661ms)
+		LoadAssemblies (517ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (295ms)
+			TypeCache.Refresh (265ms)
+				TypeCache.ScanAssembly (241ms)
+			ScanForSourceGeneratedMonoScriptInfo (21ms)
+			ResolveRequiredComponents (8ms)
+	FinalizeReload (905ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (674ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (26ms)
+			SetLoadedEditorAssemblies (6ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (83ms)
+			ProcessInitializeOnLoadAttributes (512ms)
+			ProcessInitializeOnLoadMethodAttributes (40ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (12ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 2.89 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3748 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 37 unused Assets / (191.4 KB). Loaded Objects now: 4221.
+Memory consumption went from 141.7 MB to 141.6 MB.
+Total: 3.433900 ms (FindLiveObjects: 0.308700 ms CreateObjectMapping: 0.240200 ms MarkObjects: 2.708900 ms  DeleteObjects: 0.174900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 310.374246 seconds.
+  path: Assets/UniversalRenderPipelineGlobalSettings.asset
+  artifactKey: Guid(5cde135cac8ca7140b743d611bb054d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UniversalRenderPipelineGlobalSettings.asset using Guid(5cde135cac8ca7140b743d611bb054d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: '5e97e2d0497e4e1bc6cc9b4061880810') in 0.003628 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 270.765687 seconds.
+  path: Assets/Models/Decoration/Materials
+  artifactKey: Guid(273dc2ecffa47134da0d91e824ea2258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Decoration/Materials using Guid(273dc2ecffa47134da0d91e824ea2258) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: 'b8f7815767ecad40f0c4a31ce7f0ba87') in 0.000972 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.076358 seconds.
+  path: Assets/Models/Decoration/Materials/estanteria_textura.mat
+  artifactKey: Guid(4f067c00174f9654e85ca8caf7baf30b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Decoration/Materials/estanteria_textura.mat using Guid(4f067c00174f9654e85ca8caf7baf30b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: '2f66bd83f5c2a85c78ee31f8d80831de') in 0.124636 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Models/Decoration/Materials/estanteria_textura 1.mat
+  artifactKey: Guid(e77b15a40b32ab3458210ad61762198e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Decoration/Materials/estanteria_textura 1.mat using Guid(e77b15a40b32ab3458210ad61762198e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: '46da888e862f51108b92d1229095678c') in 0.021341 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/Models/Decoration/Materials/Material.001-Color (1) (1).mat
+  artifactKey: Guid(645d8c50c15152c4eb25022943d92ee2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Decoration/Materials/Material.001-Color (1) (1).mat using Guid(645d8c50c15152c4eb25022943d92ee2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: '6c8944a1471bd3c95f7dc5b77e4e2008') in 0.068654 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 76.737936 seconds.
+  path: Assets/Models/Stages/Floor
+  artifactKey: Guid(615b1cddff03a134395ba9eb2bd994ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Floor using Guid(615b1cddff03a134395ba9eb2bd994ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: 'e487bb109874acd462c33c9af55ebadf') in 0.000433 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.079055 seconds.
+  path: Assets/Models/Stages/Floor/Suelo.fbx
+  artifactKey: Guid(721e654d011a3184f9afecb426db24f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Floor/Suelo.fbx using Guid(721e654d011a3184f9afecb426db24f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: 'db19e5936959779bc204f6a08b002f1a') in 0.097853 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 22
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Models/Stages/Floor/Suelo_Madera.png
+  artifactKey: Guid(3b7a5e5819cb2b84faf932dccdb9c844) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Floor/Suelo_Madera.png using Guid(3b7a5e5819cb2b84faf932dccdb9c844) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: '566e3192d4c258dbd504762ad0b86440') in 0.092798 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000077 seconds.
+  path: Assets/Models/Stages/Floor/Suelo_Madera.fbx
+  artifactKey: Guid(0ce2d0b5a0cb1c146af919a012acb102) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Floor/Suelo_Madera.fbx using Guid(0ce2d0b5a0cb1c146af919a012acb102) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: 'c52b6940d3e11bd7aa85fa6ed4d42411') in 0.099349 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 22
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Models/Stages/Floor/Suelo_Tatami.fbx
+  artifactKey: Guid(31d707eb1344f2d439158a3b64f651fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Floor/Suelo_Tatami.fbx using Guid(31d707eb1344f2d439158a3b64f651fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: '3e1fd559fbb17558319af5bc0bf354b2') in 0.145047 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 22
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Models/Stages/Floor/Suelo_Tatami.png
+  artifactKey: Guid(350302d9ab95da543896a32bf823b4c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Floor/Suelo_Tatami.png using Guid(350302d9ab95da543896a32bf823b4c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: 'e2309be896448c257ed76e02bd214eb3') in 0.017694 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 711.702419 seconds.
+  path: Assets/Models/Stages/Floor/Prefabs/Suelo_Base_Tatami.prefab
+  artifactKey: Guid(956c6cc0f9d2b22409275c90a24fbabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Floor/Prefabs/Suelo_Base_Tatami.prefab using Guid(956c6cc0f9d2b22409275c90a24fbabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: '21202e0c5c1c0e411886f7d38b3b4415') in 0.016109 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 27
+========================================================================
+Received Import Request.
+  Time since last request: 0.023470 seconds.
+  path: Assets/Models/Stages/Floor/Prefabs/Suelo_Esquina_Tatami.prefab
+  artifactKey: Guid(2a99fb530f6b9314eb6cd092b5c7d7d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Floor/Prefabs/Suelo_Esquina_Tatami.prefab using Guid(2a99fb530f6b9314eb6cd092b5c7d7d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: '42eed125dcd9201c10c7648e1d1cafd0') in 0.018140 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 27
+========================================================================
+Received Import Request.
+  Time since last request: 3.372131 seconds.
+  path: Assets/Models/Stages/Floor/Prefabs/Suelo_Base_Madera.prefab
+  artifactKey: Guid(e1a859d99c0f4444fbb61677f755b3b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Floor/Prefabs/Suelo_Base_Madera.prefab using Guid(e1a859d99c0f4444fbb61677f755b3b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: '1762d002012d8c691ff10ad1b59ac238') in 0.018581 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 27
+========================================================================
+Received Import Request.
+  Time since last request: 0.007010 seconds.
+  path: Assets/Models/Stages/Floor/Prefabs/Suelo_Esquina_Madera.prefab
+  artifactKey: Guid(85e14f69b11620e46900803c21b49168) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Floor/Prefabs/Suelo_Esquina_Madera.prefab using Guid(85e14f69b11620e46900803c21b49168) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: '50b889b67f5f0ac69459428ae318c0c3') in 0.019056 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 27
+========================================================================
+Received Import Request.
+  Time since last request: 543.725695 seconds.
+  path: Assets/Models/Stages/Walls/Prefabs/paret_base.prefab
+  artifactKey: Guid(ec540e6d1e660124288f11680e1b89b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Walls/Prefabs/paret_base.prefab using Guid(ec540e6d1e660124288f11680e1b89b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: '883e9f93232b932583b21a3a6c28ebde') in 0.019749 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 495.327888 seconds.
+  path: Assets/Models/Stages/Walls/Prefabs/paret_tancada.prefab
+  artifactKey: Guid(4b1a1bbd807766042b3672444b1042f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Walls/Prefabs/paret_tancada.prefab using Guid(4b1a1bbd807766042b3672444b1042f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: 'a5d7796533caebeef044c027fb2472d1') in 0.023073 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 16
+========================================================================
+Received Import Request.
+  Time since last request: 10.276410 seconds.
+  path: Assets/Models/Stages/Walls/Prefabs/paret_soportado2.prefab
+  artifactKey: Guid(91e1990c93e231746852b63e59b49d0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Walls/Prefabs/paret_soportado2.prefab using Guid(91e1990c93e231746852b63e59b49d0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: '48554b9cef03c3622cc8fd630eda2307') in 0.020620 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 16
+========================================================================
+Received Import Request.
+  Time since last request: 5.223013 seconds.
+  path: Assets/Models/Stages/Walls/Prefabs/paret_porta_tancada.prefab
+  artifactKey: Guid(54197f664d64eda42913d767f195d1b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Walls/Prefabs/paret_porta_tancada.prefab using Guid(54197f664d64eda42913d767f195d1b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: '0b05def2b3d0c15061c0ffb3ccf5d61f') in 0.017427 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 16
+========================================================================
+Received Import Request.
+  Time since last request: 8.076133 seconds.
+  path: Assets/Models/Stages/Walls/Prefabs/paret_porta_noPorta.prefab
+  artifactKey: Guid(bfcdea2b668c3d343bd498459a234caf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Walls/Prefabs/paret_porta_noPorta.prefab using Guid(bfcdea2b668c3d343bd498459a234caf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: '0a10727ed6e2a74b0f58ba017442ebc3') in 0.017916 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 16
+========================================================================
+Received Import Request.
+  Time since last request: 5.435376 seconds.
+  path: Assets/Models/Stages/Walls/Prefabs/paret_porta.prefab
+  artifactKey: Guid(b769b33007100e948bf76618dfc4188f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Walls/Prefabs/paret_porta.prefab using Guid(b769b33007100e948bf76618dfc4188f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: '28acb6eb6add8460854e2d0cfd8a8eaa') in 0.017938 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 16
+========================================================================
+Received Import Request.
+  Time since last request: 5.035261 seconds.
+  path: Assets/Models/Stages/Walls/Prefabs/paret_finestra_centre_noSop.prefab
+  artifactKey: Guid(365e1f25c9c3bc54e85c3a4445e09b3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Walls/Prefabs/paret_finestra_centre_noSop.prefab using Guid(365e1f25c9c3bc54e85c3a4445e09b3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: '6db6de345c578942526bd8aa79253c0f') in 0.016037 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 16
+========================================================================
+Received Import Request.
+  Time since last request: 2.393363 seconds.
+  path: Assets/Models/Stages/Walls/Prefabs/paret_finestra_centre.prefab
+  artifactKey: Guid(d4a73e1fe346a014fb4f0d3818b6b226) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Walls/Prefabs/paret_finestra_centre.prefab using Guid(d4a73e1fe346a014fb4f0d3818b6b226) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: '28f680f05ba8ac8660d90649f597a4ba') in 0.017789 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 16
+========================================================================
+Received Import Request.
+  Time since last request: 2.424777 seconds.
+  path: Assets/Models/Stages/Walls/Prefabs/paret_finestra_cantonada.prefab
+  artifactKey: Guid(ce7c2589b66e3d648b802c520a9bc888) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Walls/Prefabs/paret_finestra_cantonada.prefab using Guid(ce7c2589b66e3d648b802c520a9bc888) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: '46b97b0d5e85a6cf9c939c13ef5a53fe') in 0.015890 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 16
+========================================================================
+Received Import Request.
+  Time since last request: 2.007779 seconds.
+  path: Assets/Models/Stages/Walls/Prefabs/paret_cantonada.prefab
+  artifactKey: Guid(1c7ac0c85bfadb34ab57ff961ed93350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Walls/Prefabs/paret_cantonada.prefab using Guid(1c7ac0c85bfadb34ab57ff961ed93350) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: 'a3d1274d2b8a44748f0860aa37896d62') in 0.017265 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 16
+========================================================================
+Received Import Request.
+  Time since last request: 8.641074 seconds.
+  path: Assets/Models/Stages/Walls/Prefabs/paret_base_x10.prefab
+  artifactKey: Guid(299e2c6ef43c9d14c80f3c3e9c7d5682) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Walls/Prefabs/paret_base_x10.prefab using Guid(299e2c6ef43c9d14c80f3c3e9c7d5682) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: '2b8e9689d5cbd27af9904519e42516c3') in 0.018091 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 25
+========================================================================
+Received Import Request.
+  Time since last request: 6.518919 seconds.
+  path: Assets/Models/Stages/Walls/Prefabs/paret_base.prefab
+  artifactKey: Guid(a0aafd26fd6635e47a0033bf57faad0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Walls/Prefabs/paret_base.prefab using Guid(a0aafd26fd6635e47a0033bf57faad0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: '8042684b9235ad46bf224ae085435111') in 0.017896 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 16
+========================================================================
+Received Import Request.
+  Time since last request: 5.979794 seconds.
+  path: Assets/Models/Stages/Walls/Prefabs/paret_finestra_x5.prefab
+  artifactKey: Guid(2fb8c9e4171a09349bccaa1e12e33729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Walls/Prefabs/paret_finestra_x5.prefab using Guid(2fb8c9e4171a09349bccaa1e12e33729) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: 'e242e64500cce5835d18c8f9e41e41ba') in 0.018840 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 20
+========================================================================
+Received Import Request.
+  Time since last request: 80.714007 seconds.
+  path: Assets/Models/Stages/Walls/Prefabs/paret_finestra_cantonada.prefab
+  artifactKey: Guid(ce7c2589b66e3d648b802c520a9bc888) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Walls/Prefabs/paret_finestra_cantonada.prefab using Guid(ce7c2589b66e3d648b802c520a9bc888) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: '358c45f69d1060f8bc1ac91309937ac9') in 0.010709 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 16
+========================================================================
+Received Import Request.
+  Time since last request: 465.785134 seconds.
+  path: Assets/Models/Stages/Walls/Paredes.fbx
+  artifactKey: Guid(4866714700dc0884db2f05b5a230b4bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Walls/Paredes.fbx using Guid(4866714700dc0884db2f05b5a230b4bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: '5d6e71ae998fa8de43166f60889250d3') in 0.114610 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 56
+========================================================================
+Received Import Request.
+  Time since last request: 15.556835 seconds.
+  path: Assets/Models/Stages/Walls/New Walls
+  artifactKey: Guid(ca30e565b88732e47a160a1d2c36407d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Walls/New Walls using Guid(ca30e565b88732e47a160a1d2c36407d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: '749c7a02c476f3904f463c18724652c3') in 0.000615 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 19.901891 seconds.
+  path: Assets/Models/Stages/Walls/New Walls/Pared_Puerta_Cerrado.prefab
+  artifactKey: Guid(f5a823c7ca3e9684e9dcda4ff59069ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Walls/New Walls/Pared_Puerta_Cerrado.prefab using Guid(f5a823c7ca3e9684e9dcda4ff59069ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: '2ddfdd0b6b4b89caa08d0c75bed01674') in 0.014218 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 61
+========================================================================
+Received Import Request.
+  Time since last request: 0.011742 seconds.
+  path: Assets/Models/Stages/Walls/New Walls/Pared_Base.prefab
+  artifactKey: Guid(e0572e4f4abf4af4382b0ac58df8c290) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Walls/New Walls/Pared_Base.prefab using Guid(e0572e4f4abf4af4382b0ac58df8c290) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: '72a887678013e5f0644597e93bc11466') in 0.017435 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 61
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Models/Stages/Walls/New Walls/Pared_Puerta_No_Puerta.prefab
+  artifactKey: Guid(78ff9a79aedd95f439e31914a470ac2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Walls/New Walls/Pared_Puerta_No_Puerta.prefab using Guid(78ff9a79aedd95f439e31914a470ac2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: '01dc980bdb6855631a0c042dc373a3e8') in 0.020108 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 61
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Models/Stages/Walls/New Walls/Pared_Ventana_Centro_No Sop.prefab
+  artifactKey: Guid(1ff5984348ee5fc4a894b0c875120727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Walls/New Walls/Pared_Ventana_Centro_No Sop.prefab using Guid(1ff5984348ee5fc4a894b0c875120727) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: '607deb359184143c3d33f26fb89f9126') in 0.018837 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 61
+========================================================================
+Received Import Request.
+  Time since last request: 0.000062 seconds.
+  path: Assets/Models/Stages/Walls/New Walls/Pared_Cerrado.prefab
+  artifactKey: Guid(1cd1c9e30dc7be0459df6ccd3ccaad7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Walls/New Walls/Pared_Cerrado.prefab using Guid(1cd1c9e30dc7be0459df6ccd3ccaad7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: 'fb31b8d1b5a44d9379a935a61fc50525') in 0.023487 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 61
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Models/Stages/Walls/New Walls/Pared_Esquina.prefab
+  artifactKey: Guid(0a3dc90fa4f3ebc4a94a0fa0bef6d374) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Walls/New Walls/Pared_Esquina.prefab using Guid(0a3dc90fa4f3ebc4a94a0fa0bef6d374) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: 'b20d7773d3a62efff9eeaecaa570a77a') in 0.018935 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 61
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Models/Stages/Walls/New Walls/Pared_Soportado.002.prefab
+  artifactKey: Guid(22365fe78c6821e4795f8e359b4b25a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Walls/New Walls/Pared_Soportado.002.prefab using Guid(22365fe78c6821e4795f8e359b4b25a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: '46d3217ba85c0c2ab27131b749533f04') in 0.019921 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 61
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Models/Stages/Walls/New Walls/Pared_Ventana_Costado.prefab
+  artifactKey: Guid(9c4ba1a63b6b00d44b29ac3ab4cdac30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Walls/New Walls/Pared_Ventana_Costado.prefab using Guid(9c4ba1a63b6b00d44b29ac3ab4cdac30) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: '2fb4697fbe589538a878348e6060de1d') in 0.021323 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 61
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Models/Stages/Walls/New Walls/Pared_Puerta.prefab
+  artifactKey: Guid(a403a62c4da232f48a921fcafdacbafd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Walls/New Walls/Pared_Puerta.prefab using Guid(a403a62c4da232f48a921fcafdacbafd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: 'e02d1cb8519deb6fb6ce8b5431cb1ba1') in 0.018787 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 61
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Models/Stages/Walls/New Walls/Pared_Ventana_Centro.prefab
+  artifactKey: Guid(6e10bef09613eeb4f90c6c6236965056) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Walls/New Walls/Pared_Ventana_Centro.prefab using Guid(6e10bef09613eeb4f90c6c6236965056) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: '62c49b423ab828d21e4862d744722b74') in 0.018886 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 61
+========================================================================
+Received Import Request.
+  Time since last request: 1165.849103 seconds.
+  path: Assets/Models/Stages/Walls/New Walls/Paredes.fbx
+  artifactKey: Guid(4866714700dc0884db2f05b5a230b4bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Walls/New Walls/Paredes.fbx using Guid(4866714700dc0884db2f05b5a230b4bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: '5f63ddb9f6e6f55369b2bda79e19de39') in 0.127284 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 56
+========================================================================
+Received Import Request.
+  Time since last request: 10.045901 seconds.
+  path: Assets/Models/Stages/Walls/New Walls/Pared_Base.prefab
+  artifactKey: Guid(e0572e4f4abf4af4382b0ac58df8c290) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Walls/New Walls/Pared_Base.prefab using Guid(e0572e4f4abf4af4382b0ac58df8c290) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: '28342a03b8b3f78ea0cddba5aa271451') in 0.018638 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 61
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Models/Stages/Walls/New Walls/Pared_Ventana_Centro_No Sop.prefab
+  artifactKey: Guid(1ff5984348ee5fc4a894b0c875120727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Walls/New Walls/Pared_Ventana_Centro_No Sop.prefab using Guid(1ff5984348ee5fc4a894b0c875120727) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: '1f83d5d69b8475f0234d69af870adfda') in 0.023603 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 61
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Models/Stages/Walls/New Walls/Pared_Cerrado.prefab
+  artifactKey: Guid(1cd1c9e30dc7be0459df6ccd3ccaad7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Walls/New Walls/Pared_Cerrado.prefab using Guid(1cd1c9e30dc7be0459df6ccd3ccaad7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: '1e24b4d52aa65c2ec071ce526c5dee51') in 0.023597 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 61
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Models/Stages/Walls/New Walls/Pared_Puerta_No_Puerta.001.prefab
+  artifactKey: Guid(e4e8c5bcdc2f1634ba587d400c4b70a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Walls/New Walls/Pared_Puerta_No_Puerta.001.prefab using Guid(e4e8c5bcdc2f1634ba587d400c4b70a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: 'e33a6fa3c6d0d3f06a4dfedc206609ba') in 0.017630 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 61
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Models/Stages/Walls/New Walls/Pared_Esquina.prefab
+  artifactKey: Guid(0a3dc90fa4f3ebc4a94a0fa0bef6d374) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Walls/New Walls/Pared_Esquina.prefab using Guid(0a3dc90fa4f3ebc4a94a0fa0bef6d374) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: 'cfdd15e0f774054a4a4dd39286408aa2') in 0.017385 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 61
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Models/Stages/Walls/New Walls/Pared_Puerta_Cerrado.prefab
+  artifactKey: Guid(f5a823c7ca3e9684e9dcda4ff59069ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Walls/New Walls/Pared_Puerta_Cerrado.prefab using Guid(f5a823c7ca3e9684e9dcda4ff59069ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: 'cabcfacd351ffa6a3e15cda486fbafcd') in 0.018366 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 61
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Models/Stages/Walls/New Walls/Pared_Soportado.002.prefab
+  artifactKey: Guid(22365fe78c6821e4795f8e359b4b25a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Walls/New Walls/Pared_Soportado.002.prefab using Guid(22365fe78c6821e4795f8e359b4b25a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: '79a01cc0649c21ac175c2297ec4da558') in 0.019920 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 61
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Models/Stages/Walls/New Walls/Pared_Ventana_Costado.prefab
+  artifactKey: Guid(9c4ba1a63b6b00d44b29ac3ab4cdac30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Walls/New Walls/Pared_Ventana_Costado.prefab using Guid(9c4ba1a63b6b00d44b29ac3ab4cdac30) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: 'd21cbe74daaefed1b414b7f7c7d8deee') in 0.021576 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 61
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Models/Stages/Walls/New Walls/Pared_Puerta.prefab
+  artifactKey: Guid(a403a62c4da232f48a921fcafdacbafd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Walls/New Walls/Pared_Puerta.prefab using Guid(a403a62c4da232f48a921fcafdacbafd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: 'd4964d61ad2bd280b35da3a2987b2990') in 0.017837 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 61
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Models/Stages/Walls/New Walls/Pared_Ventana_Centro.prefab
+  artifactKey: Guid(6e10bef09613eeb4f90c6c6236965056) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Walls/New Walls/Pared_Ventana_Centro.prefab using Guid(6e10bef09613eeb4f90c6c6236965056) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: '4fc8738d775d591b89fc95fd17b97ef2') in 0.018985 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 61
+========================================================================
+Received Import Request.
+  Time since last request: 3154.710400 seconds.
+  path: Assets/Models/Stages/Walls/New Walls/Paredes.fbx
+  artifactKey: Guid(4866714700dc0884db2f05b5a230b4bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Walls/New Walls/Paredes.fbx using Guid(4866714700dc0884db2f05b5a230b4bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: '79c1a294a427c0c17433e96b2d7475ed') in 0.181878 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 66
+========================================================================
+Received Import Request.
+  Time since last request: 9.701083 seconds.
+  path: Assets/Models/Stages/Walls/New Walls/Pared_Base.prefab
+  artifactKey: Guid(e0572e4f4abf4af4382b0ac58df8c290) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Walls/New Walls/Pared_Base.prefab using Guid(e0572e4f4abf4af4382b0ac58df8c290) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: '8a285354be062cd052d3358b1a1f55ce') in 0.018163 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 71
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Models/Stages/Walls/New Walls/Pared_Puerta.001.prefab
+  artifactKey: Guid(53403a6adbcca7f4e8dcb39d535bbd3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Walls/New Walls/Pared_Puerta.001.prefab using Guid(53403a6adbcca7f4e8dcb39d535bbd3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: '7079397a39048cc7642518b86c2e4517') in 0.025136 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 71
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Models/Stages/Walls/New Walls/Pared_Ventana_Centro_No Sop.prefab
+  artifactKey: Guid(1ff5984348ee5fc4a894b0c875120727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Walls/New Walls/Pared_Ventana_Centro_No Sop.prefab using Guid(1ff5984348ee5fc4a894b0c875120727) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: 'ac569dfad881f34f6294052a68911631') in 0.024278 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 71
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Models/Stages/Walls/New Walls/Pared_Cerrado.prefab
+  artifactKey: Guid(1cd1c9e30dc7be0459df6ccd3ccaad7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Walls/New Walls/Pared_Cerrado.prefab using Guid(1cd1c9e30dc7be0459df6ccd3ccaad7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: '732903538d1b47752cc334cbe209f47f') in 0.018486 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 71
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Models/Stages/Walls/New Walls/Pared_Puerta_No_Puerta.001.prefab
+  artifactKey: Guid(e4e8c5bcdc2f1634ba587d400c4b70a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Walls/New Walls/Pared_Puerta_No_Puerta.001.prefab using Guid(e4e8c5bcdc2f1634ba587d400c4b70a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: '289c5379662b9801337593b26887f505') in 0.026122 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 71
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Models/Stages/Walls/New Walls/Pared_Base.002.prefab
+  artifactKey: Guid(80b8dccdcba4c4c478a51203817fb466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Walls/New Walls/Pared_Base.002.prefab using Guid(80b8dccdcba4c4c478a51203817fb466) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: '0d5a5f22e6d91e2587ae2610cfebb9cb') in 0.019149 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 71
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Models/Stages/Walls/New Walls/Pared_Esquina.prefab
+  artifactKey: Guid(0a3dc90fa4f3ebc4a94a0fa0bef6d374) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Walls/New Walls/Pared_Esquina.prefab using Guid(0a3dc90fa4f3ebc4a94a0fa0bef6d374) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: 'c7cb45fb2a9391458179c4ea93af1140') in 0.023522 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 71
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Models/Stages/Walls/New Walls/Pared_Puerta_Cerrado.prefab
+  artifactKey: Guid(f5a823c7ca3e9684e9dcda4ff59069ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Walls/New Walls/Pared_Puerta_Cerrado.prefab using Guid(f5a823c7ca3e9684e9dcda4ff59069ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: '73e9aeb8676444864ece73928bc116b8') in 0.020318 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 71
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Models/Stages/Walls/New Walls/Pared_Soportado.002.prefab
+  artifactKey: Guid(22365fe78c6821e4795f8e359b4b25a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Walls/New Walls/Pared_Soportado.002.prefab using Guid(22365fe78c6821e4795f8e359b4b25a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: '382756afaca77f8fca60cfd06191ea1b') in 0.018394 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 71
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Models/Stages/Walls/New Walls/Pared_Ventana_Costado.prefab
+  artifactKey: Guid(9c4ba1a63b6b00d44b29ac3ab4cdac30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Walls/New Walls/Pared_Ventana_Costado.prefab using Guid(9c4ba1a63b6b00d44b29ac3ab4cdac30) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: '8520d50a7159e4d2485061b661608a07') in 0.020847 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 71
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Models/Stages/Walls/New Walls/Pared_Puerta.prefab
+  artifactKey: Guid(a403a62c4da232f48a921fcafdacbafd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Walls/New Walls/Pared_Puerta.prefab using Guid(a403a62c4da232f48a921fcafdacbafd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: '90b07d99f6bad68ca9b3d847c37a4ac9') in 0.026213 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 71
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Models/Stages/Walls/New Walls/Pared_Ventana_Centro.prefab
+  artifactKey: Guid(6e10bef09613eeb4f90c6c6236965056) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Stages/Walls/New Walls/Pared_Ventana_Centro.prefab using Guid(6e10bef09613eeb4f90c6c6236965056) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 6 workers.
+ -> (artifact id: '935b9b7cf320028952b60ec6c051757f') in 0.025957 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 71
