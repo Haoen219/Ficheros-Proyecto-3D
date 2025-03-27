@@ -1,0 +1,14 @@
+Para presentar:
+
+PROYECTO 3D:
+Realizar un demo-rig de las animaciones del Tanuki.
+- Ángulo de cámara fijo.
+- Mostrar todas las animaciones.
+
+PROYECTO 2D:
+- Realizar un gameplay presentación que muestre el juego.
+
+
+Para realizar:
+PROYECTO 3D:
+- Diseñar estructura del péndulo.
