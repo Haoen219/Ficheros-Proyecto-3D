@@ -29,3 +29,8 @@ userpref.blend
 *.usd
 *.gltf
 *.glb
+
+#ficheros temporales que genera krita
+.kra~
+.png~
+.jpeg~
