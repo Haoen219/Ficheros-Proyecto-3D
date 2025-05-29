@@ -4,7 +4,7 @@
 - El general Akechi Mitsuhide en busca de grandeza y poder, traicionó a su Daimyo, el famoso Oda Nobunaga.
 [Akechi riendo, con una antorcha en la mano, mirando como se quema el castillo]
 
-- Luchó contra el ejercito al que perteneció una vez. Sufrió una gran derrota en la batalla de Yamazaki.
+- Luchó contra el ejercito al que traicionó. Sufrió una gran derrota en la batalla de Yamazaki.
 [Akechi derrotado y capturado]
 
 - Pero logró escapar y Mitsuhide se refugió en el castillo Sakamoto.
@@ -15,7 +15,7 @@
 [Akechi comiendo y bebiendo]
 
 - Pero, en las sombras del castillo, sin que nadie lo sepa, acecha una
- presencia ???.
+ presencia inusual.
 [Cerca de la entrada, silueta escondido entre los árboles]
 
 - ???: "Por fin es de noche..."
@@ -23,10 +23,11 @@
 [Camara sobre el suelo, con la silueta y las nubes cubriendo la luna]
 
 - ¿Un tanuki?
-- Tanuki: "Es hora de un festín!"
+- Tanuki: "¡Es hora de un festín!"
 [Se ve el tanuki de frente]
 
-- *tanuki corriendo hacia el castillo*
+- Y con agilidad, el pequeño tanuki avanzó hacia el castillo, para comer, eso es.
+[tanuki corriendo hacia el castillo]
 
 
 
